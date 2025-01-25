@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a **Computer Science student** at Future Unive
 
 ## 🌍 Let's Connect  
 
-- **LinkedIn:** [Noureldin Hossam](www.linkedin.com/in/noureldinhossam)  
+- **LinkedIn:** [Noureldin Hossam](https://www.linkedin.com/in/noureldinhossam)
 - **Email:** ```noureeldinhossamm@gmail.com```
 
 Feel free to reach out if you'd like to collaborate on projects, exchange ideas, or discuss innovations in technology!  
